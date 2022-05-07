@@ -1,0 +1,9 @@
+{
+	"ip":"Swapnalokam.aternos.me",
+	"port": 37808,
+	"name": "levinhosBot12",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (Levinho123) (Levinho123)",
+	"login-cmd":"/login (Levinho123)"
+}
